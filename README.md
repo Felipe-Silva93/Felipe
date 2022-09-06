@@ -2,20 +2,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou um Dev Curioso e sempre em busca de novos desafios <strong>na tecnologia</strong>.<br>
+  Atualmente me encontro empregado na Indra empresa de desenvolvimeto de software.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>Java,Ruby,Groovy e HTML/CSS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Rails, Grails e SpringBoot.</strong>
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Quer saber um pouco mais sobre mim me siga no Linkdin ou mande um E-mail: ⤵️
 </p>
 
 <p align="left">
